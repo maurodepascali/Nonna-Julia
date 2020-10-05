@@ -1,0 +1,108 @@
+.ingredientes {
+  border-radius: 10px;
+  border: 1px solid rgb(224, 214, 214);
+  margin: 10px;
+  padding: 5px;
+}
+
+
+.newsletter {
+  border: 2px solid #f8d5d5;
+  background: #f8d5d5;
+  width: 300px;
+  height: 300px;
+  margin-top: 40px;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+
+.newsletter img {
+  width: 80px;
+  margin: 10px;
+  margin-top: 20px;
+  margin-left: 110px;
+}
+
+.newsletter p {
+  text-align: center;
+  margin: 20px;
+}
+
+.newsletter input {
+  margin-left: 60px;
+  border-radius: 10px;
+  border: 1px solid #f8d5d5;
+}
+
+.newsletter button {
+  margin-top: 20px;
+  margin-left: 100px;
+  border: 1px solid pink;
+  background: rgb(197, 93, 110);
+  border-radius: 10px;
+}
+
+.titulos2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+#videos {
+  margin-top: 60px;
+}
+
+.texto2 {
+  text-align: center;
+}
+
+.sreceta {
+  padding: 20px;
+}
+
+.subtit {
+  margin-left: 20px;
+}
+
+.container .fondo {
+  background: pink;
+}
+
+.col-md-4 ul li {
+  list-style: none;
+}
+
+.col-md-8 ol li {
+  list-style: none;
+}
+
+.fondomenu .container {
+  background: url(../img/fondomenu.jpg) no-repeat bottom;
+  background-size: cover;
+  height: auto;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+#colormenu {
+  background: rgb(255, 253, 152);
+  border: 1px solid rgb(255, 253, 152);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#logomenu {
+  width: 20%;
+  height: auto;
+  margin: 15px;
+}
+
+.titulomenu {
+  margin-left: 80px;
+}
+
+.container #fila {
+  padding: 20px;
+}
+.submenu {
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+.navbar {
+  background: url(../img/fondo.jpg) no-repeat;
+  background-size: cover;
+  min-height: 10vh;
+}
+
+.navbar-brand img {
+  width: 100px;
+  height: 100px;
+}
+
+nav ul li a:hover {
+  background-color: #f18a8a;
+}
+
+.col-6 img {
+  width: 100%;
+}
+
+

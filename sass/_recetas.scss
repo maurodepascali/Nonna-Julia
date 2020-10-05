@@ -1,0 +1,34 @@
+#recetas .col-md-4{
+    padding: 10px;
+   
+} 
+
+#recetas img:hover{
+    border: 5px solid white;
+}
+
+.receta_lemon{
+    padding: 10px;
+    
+}
+.receta_cheesecake{
+  padding: 10px;
+  background: #eebaba;
+}
+
+
+.row .col-md-4 a {
+    text-decoration: none;
+    color: black;
+}
+.row .col-md-4 a h3:hover{
+    color: #eebaba;
+}
+
+.row .col-md-4 a p:hover{
+    color: #eebaba;
+}
+
+.row .col-md-4 p {
+   text-align: center;
+}
