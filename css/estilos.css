@@ -269,3 +269,32 @@ nav ul li a:hover {
   padding: 0px;
   box-sizing: content-box;
 }
+
+
+
+@media (max-width: 480px){
+
+  nav .collapse{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .navbar-nav li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+#materiaprima .col-md-3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#mapa iframe{
+  width: auto;
+  padding-top: 10px;
+  margin-left: 20px;
+}
+}
+
