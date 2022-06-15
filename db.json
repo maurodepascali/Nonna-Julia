@@ -1,0 +1,20 @@
+[
+    {
+        "categoria": "Liga Argentina",
+        "pregunta": "¿Cuantas copas libertadores tiene Boca?",
+        "respuestaCorrecta": 6,
+        "respuestaIncorrecta1": 7,
+        "respuestaIncorrecta2": 5,
+        "respuestaIncorrecta3": 4,
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Liga Argentina",
+        "pregunta": "¿Cuantas copas libertadores tiene Boca?",
+        "respuestaCorrecta": 6,
+        "respuestaIncorrecta1": 7,
+        "respuestaIncorrecta2": 5,
+        "respuestaIncorrecta3": 4,
+        "objectFit": "cover"
+    }
+]
